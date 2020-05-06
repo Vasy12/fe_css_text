@@ -1,0 +1,20 @@
+/*\
+tagName 1
+.className 10
+#idValue 100
+
+\*/
+
+
+div {
+
+    /*
+        0123456789
+        0123456789abcdef
+    */
+    /*color: rgb(50, 50, 50);*/
+    /*color: rgba(255, 255, 255, 0.7);*/
+    color: #ec5ce4;/*HEX*/
+    font-size: 40px;/* px em*/
+    text-align: center;
+}
