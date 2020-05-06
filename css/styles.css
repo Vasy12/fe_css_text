@@ -1,16 +1,1 @@
-div {
-    font-size: 80px;
-    border: 10px solid blue;
-    color: #ff0000;
-}
 
-
-p {
-    border: inherit; /* get from parent*/
-    color: initial; /* set default*/
-}
-
-h2{
-    border: unset; /* if inherit get from parent if not get default*/
-    color: unset;
-}
